@@ -3,28 +3,6 @@
 
 This project is a simple Vite + React application with end-to-end (E2E) testing using Cypress. The app includes a basic login form with validation, and the Cypress tests verify that the form behaves correctly under different conditions.
 
-## Project Structure
-
-```
-.
-├── cypress/
-│   ├── e2e/
-│   │   └── login.cy.js  # Cypress test cases for the login form
-│   ├── fixtures/
-│   ├── support/
-│   └── cypress.config.js
-├── public/
-├── src/
-│   ├── components/
-│   │   └── LoginForm.js  # The login form component
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── vite.config.js
-├── package.json
-└── README.md
-```
-
 ## Prerequisites
 
 - **Node.js** (v14 or higher)
