@@ -1,6 +1,4 @@
-Sure! Below is the raw text for the `README.md` file:
-
-```
+```markdown
 # Vite + React Application with Cypress E2E Testing
 
 This project is a simple Vite + React application with end-to-end (E2E) testing using Cypress. The app includes a basic login form with validation, and the Cypress tests verify that the form behaves correctly under different conditions.
