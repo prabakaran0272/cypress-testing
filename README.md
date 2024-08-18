@@ -7,8 +7,7 @@ This project is a simple Vite + React application with end-to-end (E2E) testing 
 
 - **Node.js** (v14 or higher)
 - **npm** (v6 or higher)
-
-## Getting Started
+```
 
 ### 1. Clone the Repository
 
